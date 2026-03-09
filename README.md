@@ -7,7 +7,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Library_project](https://github.com/mynameissajil-pixel/Library-System-Management/blob/3e4db21bfe9895be408faad6e24621e5230db4e9/galen-crout-zHgyrDmhGVo-unsplash.jpg)
 
 ## Objectives
 
@@ -267,6 +267,7 @@ WHERE return_id IS NULL
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 
 
 
