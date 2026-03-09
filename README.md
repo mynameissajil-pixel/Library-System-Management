@@ -18,7 +18,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/mynameissajil-pixel/Library-System-Management/blob/5593644624efd71084e2a0065cb15d7a2f0c4704/Screenshot%202026-03-09%20220229.png)
 
 - **Database Creation**: Created a database named `library_project_2`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -267,6 +267,7 @@ WHERE return_id IS NULL
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 
 
 
